@@ -5,7 +5,7 @@
 ### 🐱 About me
 
 **👩‍💻 Mi nombre:** Micaela Ruth Apaza Arroyo  
-**✨ Apodos:** • Mica • Mic • Maik • Keyla  
+**✨ Apodos:** • Mica • Mic  • Keyla  
 **🎓 Estudio:** Ingeniería en Sistemas en la UMSS
 
 <p align="center">
