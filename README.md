@@ -20,10 +20,7 @@
 - Me llama la atención la Inteligencia Artificial y la Robótica🤖  
 - Desarrollo de software  💻  
 - Diseño gráfico 🎨
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGw4dDR4dnBwdXV1eDN3amR1Y3BzeXY3Nmdtc2d6N
-
+---
 - A veces aprendo más a las 3 a.m. que en clase 🕒  
 - Me gusta combinar diseño y código 🎨💻   
 
