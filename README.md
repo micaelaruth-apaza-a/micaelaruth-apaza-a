@@ -2,7 +2,7 @@
 
 ---
 
-### 🐱 About Me
+### 🐱 About me
 
 **👩‍💻 Mi nombre:** Micaela Ruth Apaza Arroyo  
 **✨ Apodos:** • Mica • Mic • Maik • Keyla  
