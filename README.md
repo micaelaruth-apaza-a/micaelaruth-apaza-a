@@ -27,23 +27,24 @@
 </pre>
 </div>
 
-
 ---
 <!-- SOBRE MI -->
 <h2 align="center">🦊 ~ 𝓢𝓸𝓫𝓻𝓮 𝓶𝓲 ~ 🦊</h2>
 <div>
-<!-- GIF alineado a la derecha -->
-<img src="https://media4.giphy.com/media/LHZyixOnHwDDy/giphy.gif" align="right" width="180" style="border-radius: 12px;" />
+
+<!-- GIF alineado a la izquierda -->
+<img src="https://media4.giphy.com/media/LHZyixOnHwDDy/giphy.gif" align="left" width="180" style="border-radius: 12px;" />
 
 <!-- Bloque de texto alineado -->
 <pre>
-📱 Me interesa el diseño de interfaces para apps web y móviles  
-🤖 Me atrae la IA y la robótica  
-🎨 Me encanta el diseño gráfico + código  
-🌱 Busco mejorar, aprender y crear cosas únicas 
-🧠 Me gusta analizar cómo funcionan las cosas desde cero  
-</pre>
 
+  
+  📱 Me interesa el diseño de interfaces web y móviles, combinando estética con funcionalidad.
+  🤖 Me atrae la inteligencia artificial y la robótica, por cómo pueden aprender y ayudar.
+  🎨 Me encanta el diseño gráfico con código, crear cosas bonitas que también funcionen.
+  🌱 Busco mejorar cada día, aprender nuevas herramientas y desarrollar ideas con propósito.
+  
+</pre>
 </div>
 
 ---
