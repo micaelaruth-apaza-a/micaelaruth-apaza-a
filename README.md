@@ -4,11 +4,12 @@
 </div>
 
 <!-- Texto tipo máquina de escribir -->
+<br>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=264653&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hola%2C+soy+Micaela+Ruth+%F0%9F%8C%B8" width="80%" />
 </div>
-<hr>
 
+---
 <!-- 🐰 DATOS -->
 <h2 align="center">🐰 ~ 𝓓𝓪𝓽𝓸𝓼 ~ 🐰</h2>
 <div>
